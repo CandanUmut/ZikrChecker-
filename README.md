@@ -946,6 +946,20 @@ flutter pub get
 flutter run
 
 
+3. Ufuk’un Sorumluluğu:
+
+ Keystore oluşturma veya var olanı kullanma
+
+ build.gradle’da signing config ayarlama
+
+ flutter build apk --release ya da flutter build appbundle
+
+ Google Play Console’da yükleme
+
+ Paket adı, açıklama, görseller ekleme
+
+ Yayınlama başvurusu
+
 
 ⸻
 
